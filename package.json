@@ -1,0 +1,23 @@
+{
+  "name": "snake-game-nodejs",
+  "version": "1.0.0",
+  "description": "Snake game in terminal",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sashaDrobot/snake-game-nodejs.git"
+  },
+  "keywords": [
+    "game",
+    "node.js"
+  ],
+  "author": "Oleksandr Drobot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sashaDrobot/snake-game-nodejs/issues"
+  },
+  "homepage": "https://github.com/sashaDrobot/snake-game-nodejs#readme"
+}
